@@ -1,6 +1,8 @@
+Completed site url: https://fem-nftcard-component.netlify.app/
+
 ## Process
 
-Establish <main> with a height.
+Establish 'main' with a height.
 Center card.
 Contents of card set using one column grid.
 
